@@ -251,7 +251,7 @@ plt.show()
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/US-Honey-Visualisation-Practice.git
+   git clone https://github.com/Shubhamkeshri433/US-Honey-Visualisation-Practice.git
    cd US-Honey-Visualisation-Practice
    ```
 
